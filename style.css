@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Playfair Display", serif;
+}
+
+:root{
+    --bege: #efba85;
+    --marrom-claro: #bd7938;
+    --roxo-escuro: #753a98;
+    --roxo-claro: #c482cf;
+    --roxo-cinza: #b17ca7;
+    --rosa: #db5093;
+    --rosa2: #c13698;
+    --vinho: #9c4b5a;
+    --verde-escuro: #0b4f39;
+    --cinza-claro:  #efe2f1;
+    --preto: #343c54;
+}
+
+header {
+    background-color: #0b4f39;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+}
