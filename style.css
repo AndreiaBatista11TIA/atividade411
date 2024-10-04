@@ -27,3 +27,18 @@ header {
     display: flex;
     justify-content: center;
 }
+
+.primeira {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.primeira img {
+    width: 30rem;
+}
+
+.primeira p {
+    width: 60rem;
+
+}
