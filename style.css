@@ -42,11 +42,11 @@ header {
 
 .primeira p {
     width: 60rem;
-
 }
 
 .segunda {
     background-color: #753a98;
+    height: 20rem;
     display: flex;
     align-items: center;
     justify-content: center;
